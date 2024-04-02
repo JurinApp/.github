@@ -1,44 +1,15 @@
-# 주린이를 부탁해
-![logo](https://github.com/fkdltm97/.github/assets/65163578/dad60381-6ed9-44ab-a8e8-c1ded8c2b742)
-
-Side Project로 '교육','주식'을 합쳐 이용자에게 제공하는 B2C 서비스를 목표로 MVP 단계의 서비스를 제작하였습니다.
-
-## :남성_교사:프로젝트 소개
-> 요즘 아이들의 금융관심도 증가에 비해 금융이해력이 부족합니다. 아이들이 커서 중학생,고등학생, 심지어 성인이 되어도 금융이해력의 부족으로 금융가치관이 성립되지 않은 지금의 청년들에개 큰 문제로 대두되고 있습니다.
-> 급변하는 금융환경 속에 아이들이 실생활에서 체험할 수 있는 교육용 모의 주식 서비스를 기획했습니다. 아이들 스스로가 원하는 학습을 재미있게 접근하여 사용자와 서비스간의 상호작용을 이끌어내는 서비스입니다.
-
-## 프로젝트 정보
-개발 기간 : 2023.12.17 ~ 2024.01.28(예정)
-
-# :손을_잡은_사람들:팀원 소개
-- **이형규** : PM(서비스기획자)
-- **공덕현** : PM(서비스기획자)
-- **이수정** : UX/UI Designer
-- **김종진** : Front-End developer
-- **조성주** : Front-End developer
-- **사재혁** : Back-End developer
-![02_팀원소개](https://github.com/fkdltm97/.github/assets/65163578/b988d07e-2f98-47df-943a-906a88c8b741)
-# :압정:핵심 기능
-- **주식 거래 기능 & 게시판**
-  - 사용자(선생님)이 업데이트한 주식종목을 사용자(학생)들이 매도,매수 활동을 한다
-  - 게시판에는 사용자(선생님)가 주식상품에 대한 정보를 업데이트를하고 사용자(학생)들은 그 정보를 보고 '분석','판단'을 하여 주식활동을 행동가치를 결정한다.
-- **물건 구매 기능**
-  - 서비스 내에서 사용되는 포인트로 상품을 구매할 수 있다.
-  **(단, 학생들끼리 현물 거래는 불가능하다.)**
-# :컴퓨터: 개발환경
-- **Version** :
-- **IDE** :
-- **Framework** :
-# :톱니바퀴: 기술 스택
-- **Front** :
-- **Back** :
-- **Server** :
-- **기획** : PowerPoint, Excet, Figma
-- **design** : Figma
-- **Communication** : Slack, Discord, Notion
-# :검은_펜촉: API
-- API 상세설명 :
-- API 명세서 :
-# 기타 문서 자료
-- Figma :
-- Notion :
+![01_프_표지](https://github.com/JurinApp/.github/assets/122018331/70fa26cf-978f-43ea-a82c-62896eba2cf6)
+![02_팀원소개](https://github.com/JurinApp/.github/assets/122018331/e19dac82-9e07-4bc0-9aaf-6e1a8fc238e1)
+![03_Desk Research_백그라운드](https://github.com/JurinApp/.github/assets/122018331/8b0b3670-6604-4270-92bb-7a27f62579dc)
+![04_Desk Research_국내교육사례](https://github.com/JurinApp/.github/assets/122018331/8c6f3e40-cc92-4e1d-a18a-4526877ca9c6)
+![05_Desk Research_해외교육사례](https://github.com/JurinApp/.github/assets/122018331/018cdd9d-30cc-4880-b4c6-1f2f42e4d785)
+![06_Insight](https://github.com/JurinApp/.github/assets/122018331/e5ad5c5d-4716-4530-ba7a-2a07290ff663)
+![07_Persona_선생님](https://github.com/JurinApp/.github/assets/122018331/6aa4c8ae-046f-4821-9b04-e5595ab8ca62)
+![08_Persona_학생](https://github.com/JurinApp/.github/assets/122018331/07e5cdec-4e81-4607-bae8-dc7b98f2e105)
+![09_Project goal (1)](https://github.com/JurinApp/.github/assets/122018331/a06ac7af-fcb4-4dce-bf76-ed434d534432)
+![10_IA](https://github.com/JurinApp/.github/assets/122018331/7865ed33-a3e9-48a3-ad0b-cd3d6004cdc9)
+![12_Design system](https://github.com/JurinApp/.github/assets/122018331/540db344-d1e2-47f7-8c44-1aedfed8d6c2)
+![13_Dev system](https://github.com/JurinApp/.github/assets/122018331/1b514e35-fc5f-4927-b007-224937b68b9d)
+![14_Screen_게시판_주식거래](https://github.com/JurinApp/.github/assets/122018331/3d69fd1d-ca17-401e-ba57-156e641e138f)
+![15_screen_아이템](https://github.com/JurinApp/.github/assets/122018331/7fc77a44-71de-4234-bff6-3db9a0ebd6f2)
+![16_마무리](https://github.com/JurinApp/.github/assets/122018331/a5e0df70-7d5b-43a4-8e62-ba5222e0929d)
